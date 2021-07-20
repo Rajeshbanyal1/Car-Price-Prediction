@@ -1,0 +1,15 @@
+certifi==2021.5.30
+cycler==0.10.0
+kiwisolver @ file:///C:/ci/kiwisolver_1612282618948/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1626271861146/work
+olefile==0.46
+Pillow @ file:///C:/ci/pillow_1625663286921/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tornado @ file:///C:/ci/tornado_1606935947090/work
+wincertstore==0.2
